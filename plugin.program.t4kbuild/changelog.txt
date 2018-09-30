@@ -1,3 +1,9 @@
+v1.0.4
+-tema fuse neuve personalizata
+-suport pentru notificari din partea tips4kodi
+-pluginuri esentiale si actualizate
+-continut xxx protejat cu pin
+
 v1.0.3
 -tema aeon nox silvo 6.0.15
 -adaugate doar pluginuri esentiale si actualizate
