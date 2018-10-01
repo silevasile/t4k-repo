@@ -19,11 +19,11 @@ ADDON=xbmcaddon.Addon(id='plugin.program.t4kbuild103')
 VERSION = "1.0.2"
 
 
-PATH = "t4kbuild"            
+PATH = "t4k"            
 
 dp           =  xbmcgui.DialogProgress()
 dialog       =  xbmcgui.Dialog()
-EXCLUDES     = ['plugin.program.t4kbuild103']
+EXCLUDES     = ['plugin.program.t4k']
 HOME         =  xbmc.translatePath('special://home/')
 
     
