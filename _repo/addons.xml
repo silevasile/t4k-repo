@@ -34,7 +34,7 @@
 	</extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="T4K Repo" version="1.0.3" provider-name="tips4kodi.net">
+    <addon id="repository.t4krepo" name="T4K Repo" version="1.0.4" provider-name="tips4kodi.net">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
