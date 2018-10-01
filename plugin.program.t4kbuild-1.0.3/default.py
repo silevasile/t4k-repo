@@ -12,8 +12,8 @@ import ntpath
 
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'
-base='T4K Build'
-ADDON=xbmcaddon.Addon(id='plugin.program.t4kbuild')
+base='T4K Build 103'
+ADDON=xbmcaddon.Addon(id='plugin.program.t4kbuild103')
     
     
 VERSION = "1.0.2"
@@ -23,7 +23,7 @@ PATH = "t4kbuild"
 
 dp           =  xbmcgui.DialogProgress()
 dialog       =  xbmcgui.Dialog()
-EXCLUDES     = ['plugin.program.t4kbuild']
+EXCLUDES     = ['plugin.program.t4kbuild103']
 HOME         =  xbmc.translatePath('special://home/')
 
     
