@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.t4krepo" name="T4K Repo" version="1.0.6" provider-name="tips4kodi.net">
+    <addon id="repository.t4krepo" name="[COLOR dodgerblue][B] T4K[/B][/COLOR] Repository" version="1.0.6" provider-name="tips4kodi.net">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="T4K Repo">
+        <extension point="xbmc.addon.repository" name="[COLOR dodgerblue][B] T4K[/B][/COLOR] Repository">
             <info compressed="false">https://raw.githubusercontent.com/silevasile/t4k-repo/master/_repo/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/silevasile/t4k-repo/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/silevasile/t4k-repo/master/_repo/</datadir>
