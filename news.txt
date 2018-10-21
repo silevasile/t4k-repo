@@ -5,6 +5,6 @@ https://www.facebook.com/groups/tips4kodi/[/COLOR]
 
 Dorim sa le multumim celor ce au instalat build-ul nostru, sa ii multumim lui TvPeMobil.net pentru lista IPTV, lui Subiectiv.com pentru sustinere si backlink-uri (ajuta Tips4Kodi.net sa creasca), lui Viodor pentru suport, idei si incurajari, lui unicsuc pentru T4K Wizard, lui Polux si Sarsaila pentru exceptionalele pluginuri romanesti SopcastRO si MoviesRoSitesPack, si tuturor dezvoltatorilor de pluginuri Kodi. Fara voi acest build nu ar exista.
 
-Cu respect, echipa Tips4Kodi !!
+Cu respect, echipa Tips4Kodi !!!
 
 [COLOR yellow]Daca esti multumit de T4K Build ne puteti oferi o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net !!![/COLOR]
