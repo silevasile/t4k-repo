@@ -1,10 +1,7 @@
 2
 |||
-[COLOR red]T4K Build 103 si 104 sunt ambele disponibile in T4K Repo...[/COLOR]
+[COLOR red]T4K Build 105...[/COLOR]
 
-[COLOR white]Doresc sa le multumesc celor ce au instalat acest build, sa ii multumesc lui TvPeMobil.net pentru lista IPTV, lui Subiectiv.com pentru sustinere si backlink-uri (ajuta Tips4Kodi.net sa creasca), lui Viodor pentru suport, idei si incurajari, lui Polux si Sarsaila pentru exceptionalele pluginuri romanesti SopcastRO si MoviesRoSitesPack, si tuturor dezvoltatorilor de pluginuri Kodi. Fara voi acest build nu ar exista.[/COLOR]
+[COLOR dodgerblue]Testing...[/COLOR]
 
-
-Cu respect, Tips4Kodi !!
-
-[COLOR yellow]Daca esti multumit de T4K Build imi poti oferi o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net !!![/COLOR]
+[COLOR yellow]Daca esti multumit de T4K Build ne puteti oferi o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net !!![/COLOR]
