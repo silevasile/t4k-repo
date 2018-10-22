@@ -1,3 +1,8 @@
+v1.0.5
+-tema Aeon Minimal
+-actualizate/adaugate/sterse pluginuri
+-removed pin from xxx category
+
 v1.0.4
 -tema fuse neuve personalizata
 -suport pentru notificari din partea tips4kodi

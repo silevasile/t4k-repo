@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.t4kbuild" name="T4K Build" version="1.0.4" provider-name="Tips4Kodi">
+<addon id="plugin.program.t4kbuild" name="T4K Build" version="1.0.5" provider-name="Tips4Kodi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -89,7 +89,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.0.7" provider-name="tips4kodi.net">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.0.8" provider-name="tips4kodi.net">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>

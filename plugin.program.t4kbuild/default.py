@@ -28,7 +28,7 @@ HOME         =  xbmc.translatePath('special://home/')
 
     
 def CATEGORIES():
-    link = OPEN_URL('https://pastebin.com/raw/c9eE5YMD').replace('\n','').replace('\r','')
+    link = OPEN_URL('https://pastebin.com/raw/NMPE8epH').replace('\n','').replace('\r','')
     match = re.compile('name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?escription="(.+?)"').findall(link)
     for name,url,iconimage,fanart,description in match:
         addDir(name,url,1,iconimage,fanart,description)
@@ -154,7 +154,7 @@ def platform():
 def addDir(name,url,mode,iconimage,fanart,description):
         u=sys.argv[0]+"?url="+urllib.quote_plus(url)+"&mode="+str(mode)+"&name="+urllib.quote_plus(name)+"&iconimage="+urllib.quote_plus(iconimage)+"&fanart="+urllib.quote_plus(fanart)+"&description="+urllib.quote_plus(description)
         ok=True
-        liz=xbmcgui.ListItem(name, iconImage="https://ia601509.us.archive.org/33/items/tips4kodi_gmail_Icon_201803/icon.png", thumbnailImage=iconimage)
+        liz=xbmcgui.ListItem(name, iconImage="https://ia902906.us.archive.org/32/items/LogoT4kbuild/logo%20t4kbuild.png", thumbnailImage=iconimage)
         liz.setInfo( type="Video", infoLabels={ "Title": name, "Plot": description } )
         liz.setProperty( "Fanart_Image", fanart )
         ok=xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]),url=u,listitem=liz,isFolder=False)
