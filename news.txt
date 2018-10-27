@@ -1,8 +1,8 @@
 2
 |||
-[COLOR dodgerblue]T4K Build 1.0.5...este online !![/COLOR]
+[COLOR dodgerblue]A T E N T I E ! ![/COLOR]
 
-Dorim sa le multumim celor ce au instalat build-ul nostru, sa ii multumim lui TvPeMobil.net pentru lista IPTV, lui Subiectiv.com pentru sustinere si backlink-uri (ajuta Tips4Kodi.net sa creasca), lui Viodor pentru suport, idei si incurajari, lui unicsuc pentru T4K Wizard, lui Polux si Sarsaila pentru exceptionalele pluginuri romanesti SopcastRO si MoviesRoSitesPack, si tuturor dezvoltatorilor de pluginuri Kodi. Fara voi acest build nu ar exista.
+Lista pentru canale romanesti din meniul Live TV este indisponibila pana Marti la ora 14:00. TvPeMobil.net lucreaza la imbunatatirea serviciului. Pana atunci, puteti viziona canalele TV direct pe site-ul lor.
 Cu respect, echipa Tips4Kodi !!
 
-[COLOR yellow]Ne puteti oricand oferi o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
+[COLOR yellow]Sustine proiectul T4K si doneaza o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
