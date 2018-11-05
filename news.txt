@@ -1,8 +1,8 @@
 2
 |||
-[COLOR dodgerblue]A T E N T I E ! ![/COLOR]
+[COLOR dodgerblue]Tuturor celor ce folosesc T4K Build !![/COLOR]
 
-Lista pentru canale romanesti din meniul Live TV este indisponibila. TvPeMobil.net lucreaza la imbunatatirea serviciului. Pana atunci, puteti viziona canalele TV direct pe site-ul lor.
-Cu respect, echipa Tips4Kodi !!
+Am inceput dezvoltarea versiunii 1.0.6 dar, din cauza unor "obstacole" nu avem o data exacta a publicarii. Avem in plan si o versiune speciala tematica pentru Craciun. HF
+Echipa T4K !!
 
-[COLOR yellow]Sustine proiectul T4K si doneaza o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
+[COLOR yellow]Sustine proiectul T4K si ofera o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
