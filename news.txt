@@ -1,8 +1,7 @@
 2
 |||
-[COLOR dodgerblue]Tuturor celor ce folosesc T4K Build !![/COLOR]
+Duminica seara o sa actualizam build-ul T4K la versiunea 1.0.6...
+Va pastra aceeasi interfata dar cu o lista de pluginuri actualizate, un EPG pentru lista de canale TV si ii vom actualiza si meniul.
+P.S. Urmeaza sa publicam si o versiune tematica pentru Sarbatori ! :P
 
-Am inceput dezvoltarea versiunii 1.0.6 dar, din cauza unor "obstacole" nu avem o data exacta a publicarii. Avem in plan si o versiune speciala tematica pentru Craciun. HF
-Echipa T4K !!
-
-[COLOR yellow]Sustine proiectul T4K si ofera o cafea cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
+[COLOR yellow]Poti sustine build-ul T4K la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
