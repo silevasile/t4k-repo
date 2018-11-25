@@ -1,7 +1,7 @@
 2
 |||
-Duminica seara o sa actualizam build-ul T4K la versiunea 1.0.6...
-Va pastra aceeasi interfata dar cu o lista de pluginuri actualizate, un EPG pentru lista de canale TV si ii vom actualiza si meniul.
-P.S. Urmeaza sa publicam si o versiune tematica pentru Sarbatori ! :P
+Versiunea 1.0.6 a fost finalizata !!
+Cum primim OK-ul de la testeri, il includem in T4K Repository si apoi in T4K Wizard !!
+Adminii grupului facebook Kodi Romania vor posta cand este disponibil pentru instalare.
 
 [COLOR yellow]Poti sustine build-ul T4K la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
