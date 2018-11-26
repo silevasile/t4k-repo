@@ -1,3 +1,9 @@
+v1.0.6
+-actualizate/adaugate/sterse pluginuri
+-added EPG
+-added Autocompletion
+-changed backgrounds
+
 v1.0.5
 -tema Aeon Minimal
 -actualizate/adaugate/sterse pluginuri
