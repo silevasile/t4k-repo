@@ -2,7 +2,7 @@
 |||
 [B][COLOR dodgerblue]T4K Build 1.0.6...[/COLOR][/B]
 
-In aceasta versiune am introdus un [B]EPG Romania[[/B] pentru canalele TvPeMobil. hf
+In aceasta versiune am introdus un [B]EPG Romania[/B] pentru canalele [B][COLOR blue]TvP[/COLOR][COLOR yellow]eMo[/COLOR][COLOR red]bil[/COLOR][/B]. hf
 
 
 [COLOR yellow]Poti sustine build-ul T4K la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
