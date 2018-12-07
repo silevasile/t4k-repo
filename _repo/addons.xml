@@ -83,7 +83,7 @@
     </extension>
 </addon>
 
-<addon id="script.t4k.news" version="1.0.0"
+<addon id="script.t4k.news" version="1.0.1"
        name="T4K News" provider-name="tips4kodi">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
@@ -96,7 +96,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
   	<summary>Tips4Kodi NEWS</summary>
-  	<description>Cu ajutorul acestui plugin veti primi notificari din partea lui Tips4Kodi.</description>
+  	<description>Cu ajutorul acestui plugin, primiti notificari din partea lui Tips4Kodi.</description>
   	<disclaimer>Nu ne asumam nici o raspundere pentru erorile acestui plugin.</disclaimer>
   	<language>en</language>
   	<platform>all</platform>
