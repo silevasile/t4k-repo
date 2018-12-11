@@ -1,8 +1,6 @@
 2
 |||
 
-    Versiunea 1.0.7 a build-ului [B][COLOR dodgerblue]T4K[/COLOR][/B] este aproape...si va fi prezentat pe canalul YouTube sorake28 si cel oficial Tips4Kodi !
-    Alatura-te grupului facebook [COLOR white]Kodi Romania[/COLOR]-[COLOR dodgerblue]T4K[/COLOR]...suntem si noi. :P
-
+Apel catre toti cei ce au "imprumutat" lista TV din build-ul T4K. Lista TV a versiunii 106 a fost facuta public intr-un grup facebook IPTV. Va rog, nu o mai extrageti si publicati aiurea cine stie pe unde. A fost creata exclusiv pentru T4K si o vom pierde. Sunt la un click distanta sa o dezactivez, inclusiv EPG-ul. 10x & hf
 
 [COLOR yellow]Poti sustine build-ul T4K la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
