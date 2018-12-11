@@ -1,7 +1,6 @@
 2
 |||
 
-    Soon...[B][COLOR dodgerblue]T4K Build 1.0.7 ![/COLOR][/B]
-
+Apel catre toti cei ce au "imprumutat" lista TV din build-ul T4K. Lista TV a versiunii 106 a fost facuta public intr-un grup facebook IPTV. Va rog, nu o mai extrageti si publicati aiurea cine stie pe unde. A fost creata exclusiv pentru T4K si o vom pierde. Sunt la un click distanta sa o dezactivez, inclusiv EPG-ul. 10x & hf
 
 [COLOR yellow]Poti sustine build-ul T4K la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
