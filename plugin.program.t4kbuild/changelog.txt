@@ -1,3 +1,9 @@
+v1.0.7
+-schimbat sistemul de instalare (are propriul wizard acum)
+-actualizate/adaugate/sterse pluginuri
+-semnalat si adaugat fix player muzica de Traistaru Dorin
+-adaugate noi surse filme, seriale, muzica
+
 v1.0.6
 -actualizate/adaugate/sterse pluginuri
 -added EPG
