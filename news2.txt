@@ -1,7 +1,7 @@
 2
 |||
 
-[COLOR red]La multi ani !! pe 2019...[/COLOR]
+[COLOR red]La multi ani !! ...pe 2019[/COLOR]
 Pregatim actualizarea build-ului din interiorul aplicatiei [COLOR dodgerblue][B]T4K[/B][/COLOR], la versiunea [COLOR yellow]1.0.8[/COLOR]. De aceea, vrem sa fiti pregatiti. Pentru a nu pierde tot ce ati adunat la Favorite, recomandam setarea [COLOR dodgerblue]T4K Apk Wizard / Settings / Install Settings[/COLOR] si bifati [COLOR dodgerblue]Keep My Favourites[/COLOR]. Pentru actualizare (cand va fi disponibila), folositi [COLOR yellow]Fresh Install[/COLOR].
 
 [COLOR yellow]Poti da o cafea la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
