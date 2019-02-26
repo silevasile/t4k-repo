@@ -1,10 +1,10 @@
 2
 |||
 
-[COLOR red]Celor ce nu le functioneaza lista din Live TV[/COLOR]
+[COLOR red]T4K Build 1.0.8a...[/COLOR]
 
-Trebuie sa ajungeti la setarile PVR si fara sa modificati ceva...dati OK apoi restart kodi/apk.
-System / Add-ons / My add-ons / PVR Clients / PVR Simple IPTV.
-Ne pare rau...dar e un bug kodi si nu a fost reincarcata lista actualizata.
+In scurt timp...actualizarea build-ului aplicatiei T4K deci, setati wizard-ul sa salveze categoria Favorite si dupa actualizare.
+
+Aceasta actualizare aduce: mici setari video (si sper sa rezolve o parte din problemele celor cu Android TV), eliminarea XXX din meniu, adaugat butonul "Subtitle download" in Live TV, adaugat pluginul T4K World (suntem inca la inceput si in teste), noul Logo TvPeMobil in wallpaper LiveTV... HF
 
 [COLOR yellow]Poti da o cafea la https://paypal.me/t4kbuild sau cu ajutorul butonului "DONATE" de pe site-ul Tips4Kodi.net :D[/COLOR]
