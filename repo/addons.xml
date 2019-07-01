@@ -96,7 +96,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.2" provider-name="tips4kodi.net">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.3" provider-name="tips4kodi.net">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -108,7 +108,7 @@
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>T4K Repository</summary>
-            <description>Official Tips4Kodi Repository. Aici gasiti ultima versiune a build-ului T4K !!</description>
+            <description>Official Tips4Kodi Repository!!</description>
             <platform>all</platform>
     </extension>
 </addon>
