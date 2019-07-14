@@ -15,6 +15,35 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.ghost.tv" name="[B][COLOR lightyellow]Ghost Portal[/COLOR][/B]" version="2.1.0" provider-name="Team Ghost">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <description></description>
+	<disclaimer></disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.romanianpack"
        name="Movies RO Sites Pack"
        version="1.0.54g"
@@ -48,6 +77,19 @@
     <description lang="en">Simplu ,sper sa si placa!!</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="repository.Ghost" name="[B][COLOR red]Ghost Repo[/COLOR][/B]" version="2.0.1" provider-name="Ghost">
+	<extension point="xbmc.addon.repository" name="Ghost Repo">
+		<info compressed="false">http://ghost-repo.de/Plugins/addons.xml</info>
+		<checksum>http://ghost-repo.de/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://ghost-repo.de/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR red]Ghost Repo[/COLOR]</summary>
+		<description>[COLOR red]Ghost Repo[/COLOR]</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 
     <addon id="repository.gruprepo" name="T4K Grup Repo" version="1.0.3" provider-name="unicsuc">
@@ -110,7 +152,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.3" provider-name="tips4kodi.net">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.4" provider-name="tips4kodi.net">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
