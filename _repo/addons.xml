@@ -46,7 +46,7 @@
 
 <addon id="plugin.video.romanianpack"
        name="Movies RO Sites Pack"
-       version="1.0.54g"
+       version="1.0.54i"
        provider-name="Sarsailă">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -126,7 +126,7 @@
     </extension>
 </addon>
 
-<addon id="repository.sarsaila" name="Sarsailă's Addons" version="1.0.9" provider-name="Sarsailă">
+<addon id="repository.sarsaila" name="Sarsailă's Addons" version="1.1.0" provider-name="Sarsailă">
     <extension point="xbmc.addon.repository" name="Sarsailă's Addons">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/xngsrs/myhobby/master/addons.xml</info>
@@ -134,14 +134,14 @@
             <datadir zip="true">https://github.com/xngsrs/myhobby/raw/master/zips/</datadir>
         </dir>
         <dir>
-            <info compressed="false">https://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml</info>
-            <checksum>https://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml.md5</checksum>
-            <datadir zip="true">https://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/repo/</datadir>
+            <info compressed="false">https://bitbucket.org/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml</info>
+            <checksum>https://bitbucket.org/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml.md5</checksum>
+            <datadir zip="true">https://bitbucket.org/DiMartino/myshows.me-kodi-repo/raw/default/repo/</datadir>
         </dir>
         <dir>
-            <info compressed="false">https://api.bitbucket.org/1.0/repositories/xngsrs/myhobby/raw/master/addons.xml</info>
-            <checksum>https://api.bitbucket.org/1.0/repositories/xngsrs/myhobby/raw/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://api.bitbucket.org/1.0/repositories/xngsrs/myhobby/raw/master/zips/</datadir>
+            <info compressed="false">https://bitbucket.org/xngsrs/myhobby/raw/master/addons.xml</info>
+            <checksum>https://bitbucket.org/xngsrs/myhobby/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://bitbucket.org/xngsrs/myhobby/raw/master/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -152,7 +152,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.4" provider-name="tips4kodi.net">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.5" provider-name="tips4kodi.net">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
