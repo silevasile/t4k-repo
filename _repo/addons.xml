@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.wolfywizard" name="[COLOR yellow][B]Wolfy Build[/COLOR] [COLOR white]Wizard[/B][/COLOR]" version="1.0.0" provider-name="just a bee">
+<addon id="plugin.program.wolfywizard" name="[COLOR yellow][B]AlbinA[/COLOR] [COLOR white]Wizard[/B][/COLOR]" version="1.0.1" provider-name="just a bee">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -61,7 +61,7 @@
 
 <addon id="plugin.video.romanianpack"
        name="Movies RO Sites Pack"
-       version="1.0.62"
+       version="1.0.72"
        provider-name="Sarsailă">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -83,6 +83,34 @@
     <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
     <disclaimer lang="ro">Autorul acestui supliment nu găzduiește conținutul găsit și nu are nicio legătură cu furnizorii de conținut. Acest supliment doar caută conținutul furnizat de site-uri web. Folosiți-l pe propria răspundere! </disclaimer>
   </extension>
+</addon>
+
+<addon id="plugin.video.romy" name="Romy Plugin Playground" version="1.0" provider-name="Four You!">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.resolveurl" />
+        <!--<import addon="script.module.urlresolver" />-->
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Romy Movies</summary>
+        <description lang="en">Filme doar pentru voi.</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <platform>all</platform>
+        <website/>
+        <video_guide>https://youtu.be/cJ4DVkd2_To</video_guide>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+    </extension>
 </addon>
 
 <addon id="plugin.video.RomyBuild" name="RomyCupidon" version="1.0.1" provider-name="documentarys.do.am">
