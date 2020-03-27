@@ -113,20 +113,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.RomyBuild" name="RomyCupidon" version="1.0.1" provider-name="documentarys.do.am">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">RomyCupidon Wizard</summary>
-    <description lang="en">Simplu ,sper sa si placa!!</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="repository.Ghost" name="[B][COLOR red]Ghost Repo[/COLOR][/B]" version="2.0.1" provider-name="Ghost">
 	<extension point="xbmc.addon.repository" name="Ghost Repo">
 		<info compressed="false">http://ghost-repo.de/Plugins/addons.xml</info>
@@ -200,7 +186,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.8" provider-name="silevasile">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.1.9" provider-name="silevasile">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
