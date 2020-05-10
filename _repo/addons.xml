@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+
+                   <!--// Romy Wizard \\-->
+
+<addon id="plugin.program.romybuildro" name="[B][COLOR aqua][COLOR aqua]Romy Wizard[COLOR lime][/COLOR][/B]" version="1.1.1" provider-name="[B][COLOR aqua]Romy[/COLOR][/B]">.
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Romy Wizard</summary>
+    <description lang="en">Bucurativa de Romy Wizard...</description>
+    <platform>all</platform>
+	<website>https://www.documentarys.do.am</website>
+  </extension>
+</addon>
+
 <addon id="plugin.program.wolfywizard" name="[COLOR yellow][B]AlbinA[/COLOR] [COLOR white]Wizard[/B][/COLOR]" version="1.0.2" provider-name="just a bee">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -61,7 +80,7 @@
 
 <addon id="plugin.video.romanianpack"
        name="Movies RO Sites Pack"
-       version="1.0.77"
+       version="1.0.85"
        provider-name="Sarsailă">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -93,7 +112,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.romy" name="Romy Plugin Playground" version="1.1" provider-name="Four You!">
+<addon id="plugin.video.romy" name="Romy Plugin Playground" version="1.2" provider-name="Four You!">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
@@ -194,7 +213,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.0" provider-name="silevasile">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.1" provider-name="silevasile">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
