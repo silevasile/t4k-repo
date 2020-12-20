@@ -3,7 +3,7 @@
 
                   <!--// Al8inA Wizard \\-->
 
-<addon id="plugin.program.al8inabuild" name="[COLOR orange]Al8inA[/COLOR] [COLOR yellow]Wizard[/COLOR]" version="1.0.4" provider-name="[COLOR red]Just a Bee[/COLOR]">
+<addon id="plugin.program.al8inabuild" name="[COLOR orangered]Al8inA[/COLOR]" version="1.0.4" provider-name="[COLOR orangered]Bee QUEEN[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -13,7 +13,7 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Al8inA Wizard</summary>
-    <description lang="en">[COLOR orange]Why so fucking serious?Little honey ... for the brain!  :))[/COLOR]</description>
+    <description lang="en"></description>
     <platform>all</platform>
 	<website>https://www.documentarys.do.am</website>
   </extension>
@@ -222,7 +222,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.2" provider-name="silevasile">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.3" provider-name="silevasile">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
