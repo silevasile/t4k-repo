@@ -19,6 +19,33 @@
   </extension>
 </addon>
 
+<addon id="plugin.program.al8inamatrix" name="[COLOR orangered]Al8inA [/COLOR] [COLOR chocolate]Matrix Wizard[/COLOR]" version="1.1.7" provider-name="AudioSistem">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR chocolate]Open Wizard[/COLOR]</summary>
+        <description lang="en"> Offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
+
 
                    <!--// Romy Wizard \\-->
 
@@ -159,6 +186,36 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.RomyM3trix" name="[B][COLOR aqua]Romy[/COLOR] [COLOR red]M3trix[/COLOR][/B]" version="3.0.0+matrix" provider-name="RomyTVplace">
+<requires>
+      <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+    <import addon="script.module.resolveurl" version="5.0.06"/>
+	<import addon="script.module.resolveurl" />
+        <!--<import addon="script.module.urlresolver" />-->
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	 <summary lang="en">TOT CONȚINUTUL ACESTUI ADDON A FOST EXTRAS DIN DOMENIUL GOOGLE. NU SUNT RESPONSABIL PENTRU SCOPURILE PROFITABILE ALE PĂRȚILOR TERȚE.</summary>
+    <description lang="en">LA INCEPUT DE DRUM!</description>
+    <disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/home.png</screenshot>
+<screenshot>resources/screenshots/movies.png</screenshot>
+<screenshot>resources/screenshots/series.png</screenshot>
+</assets>
+	<news>news
+	</news>
+</extension>
+</addon>
+
 <addon id="repository.Ghost" name="[B][COLOR red]Ghost Repo[/COLOR][/B]" version="2.0.1" provider-name="Ghost">
 	<extension point="xbmc.addon.repository" name="Ghost Repo">
 		<info compressed="false">http://ghost-repo.de/Plugins/addons.xml</info>
@@ -222,7 +279,7 @@
     </extension>
 </addon>
 
-    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.3" provider-name="silevasile">
+    <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.4" provider-name="silevasile">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
